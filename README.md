@@ -25,6 +25,8 @@ This Weather API project is a Python script that retrieves the latest weather fo
 • Images are saved in the project folder with filenames containing the date and city name (e.g.,India_2024-07-07_post.png).
 
 • PDFs are also saved with the same naming convention.
+## Notes
+* Please note that the script and the image named "post" shold be in the same folder.
 
 ## ACKNOWLEDGEMENTS:
 • The project uses the OpenWeatherMap API for weather data.
